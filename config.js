@@ -1,7 +1,7 @@
-const nameGirl = 'Em';
+const nameGirl = 'Nga <3';
 const giftUrl = 'http://nodemy.vn';
 const eventName = 'Chúc Mừng 20-10. Nga <3';
-const titleCard = 'Tặng người ấy 😂';
+const titleCard = 'My best friend - 会いたい!';
 const contentCard = 'Nhân dịp 20/10 chúc Nga thật vui vẻ, tràn đầy sức sống 😊.Dẫu biết rằng cuộc sống 1 mình chưa bao jo là dễ dàng, nhưng tin rằng Nga sẽ vượt qua hết thui! Vậy cố gắng hơn nữa nha 😊またね！';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
